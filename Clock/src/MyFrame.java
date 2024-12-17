@@ -22,7 +22,7 @@ public class MyFrame extends JFrame {
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setTitle("Часы");
 		this.setLayout(new FlowLayout());
-		this.setSize(340, 200);
+		this.setSize(320, 200);
 		this.setResizable(false);
 		
 		timeFormat = new SimpleDateFormat("HH:mm:ss");
