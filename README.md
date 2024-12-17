@@ -1,1 +1,1 @@
-Creating a Clock with Swing
+Created a Clock with Swing
